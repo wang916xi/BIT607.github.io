@@ -1,1 +1,0 @@
-# BIT607_HAUKAI
