@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access"
-AuthUserFile "https://github.com/wang916xi/BIT607.github.io/blob/main/private/.htpasswd"
+AuthUserFile "/.htpasswd"
 Require valid-user
